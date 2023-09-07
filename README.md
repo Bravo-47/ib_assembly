@@ -7,3 +7,5 @@
 
 
 How to find this extension, if VSCode not found?
+
+![image](https://github.com/Bravo-47/ib_assembly/assets/52736408/3c4472cb-53ea-4d39-af3e-931fc4df3782)
