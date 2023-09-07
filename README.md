@@ -17,4 +17,7 @@ HКак найти нужное расширение если VSCode не нах
 
 ![image](https://github.com/Bravo-47/ib_assembly/assets/52736408/b23b8f27-7b9e-4d5c-a44b-cf87de2b982c)
 
-6) 
+6) Чтобы выполнить задание нужно изучить немного функции MS Windows
+   - https://learn.microsoft.com/ru-ru/cpp/intrinsics/?view=msvc-160
+   - https://learn.microsoft.com/ru-ru/cpp/overview/visual-cpp-samples?view=msvc-170
+8) Приступаем к заданию
