@@ -17,6 +17,8 @@ RVA точки входа: -
 **Executable:**
 1) Устанавливаем PPEE
    link not worked - https://mzrst.com/puppy/PPEE(puppy)%201.12.zip
+   find on - https://www.majorgeeks.com/mg/getmirror/ppee,1.html
    end - https://www.microsoft.com/en-us/download/confirmation.aspx?id=5555
-2) Install HxD editor
-3) Установил Дебаггер OllyDbg
+   find on oficial site - https://www.microsoft.com/en-US/download/details.aspx?id=26999
+3) Install HxD editor
+4) Установил Дебаггер OllyDbg
