@@ -14,12 +14,20 @@
 
 
 RVA для секции кода: -
+![image](https://github.com/Bravo-47/ib_assembly/assets/52736408/fe5814d3-338a-4c4a-953c-95d30db3a500)
 
 
 RVA для секции данных: -
+![image](https://github.com/Bravo-47/ib_assembly/assets/52736408/470f1188-8b54-44b5-b538-12d7674aa238)
+
 Базовый адрес: -
+![image](https://github.com/Bravo-47/ib_assembly/assets/52736408/d8e26969-c391-43b4-95a6-b903144d635f)
+
 RVA точки входа: -
+![image](https://github.com/Bravo-47/ib_assembly/assets/52736408/4a57dd2a-38aa-4d1e-b67e-cf8a7dc62f21)
+
 Планируемый адрес точки входа: -
+
 Импортируемые библиотеки: -
 Импортируемые функции: -
 
