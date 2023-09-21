@@ -17,4 +17,6 @@ RVA точки входа: -
 **Executable:**
 1) Устанавливаем PPEE
    link not worked - https://mzrst.com/puppy/PPEE(puppy)%201.12.zip
+   end - https://www.microsoft.com/en-us/download/confirmation.aspx?id=5555
+   
   3) Установил Дебаггер OllyDbg
